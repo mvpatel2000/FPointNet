@@ -1,0 +1,1 @@
+Namespace(batch_size=32, decay_rate=0.5, decay_step=800000, gpu=0, learning_rate=0.001, log_dir='train/log_v1', max_epoch=201, model='frustum_pointnets_v1', momentum=0.9, no_intensity=False, num_point=1024, optimizer='adam', restore_model_path=None)
